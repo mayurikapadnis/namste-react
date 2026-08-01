@@ -1,0 +1,26 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mayurikapadnis/namste-react#readme",
+  "bugs": {
+    "url": "https://github.com/mayurikapadnis/namste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurikapadnis/namste-react.git"
+  },
+  "license": "ISC",
+  "author": "Mayuri Kapadnis",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
